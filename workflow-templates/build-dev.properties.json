@@ -1,0 +1,8 @@
+{
+    "name": "Sequentia Build Workflow",
+    "description": "Sequentia CI starter workflow.",
+    "iconName": "octicon build",
+    "categories": [
+        "continuous-integration"
+    ]
+}
